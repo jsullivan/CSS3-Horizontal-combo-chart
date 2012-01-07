@@ -1,4 +1,4 @@
-A simple horizontal combo chart. It serves the same purpose as a pie chart, except it's fluid and rectangular.
+A simple horizontal combo chart, serving the same purpose as a pie chart, except it's fluid, rectangular, and has a better reputation.
 
 To use, paste this into your html:
 
@@ -16,4 +16,6 @@ To use, paste this into your html:
 	</div>
 
 For each new summary of data, create a new combo-fill element containing its own combo-label and fill-amount.
+
+See the example.html for colors and styles.
 

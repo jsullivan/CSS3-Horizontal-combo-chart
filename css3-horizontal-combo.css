@@ -59,7 +59,7 @@
 }
 
 /* COLORS */
-.test_container {background: #333; height: 41px;}
+.dark-combo-container {background: #333; height: 41px;}
 /* GREEN */
 
 .green {
@@ -74,8 +74,8 @@
   border-top: 1px solid #e8ffbb;
   border-bottom: 1px solid #690;
 }
-.green_container {background: #690;}
-.green_mortice {
+.green-container {background: #690;}
+.green-mortice {
   background: #460;
   border-bottom: 1px solid #8c0;
   color: #fff;
@@ -97,8 +97,8 @@
   border-top: 1px solid #ffd277;
   border-bottom: 1px solid #960;
 }
-.orange_container {background: #960;}
-.orange_mortice {
+.orange-container {background: #960;}
+.orange-mortice {
   background: #640;
   border-bottom: 1px solid #CC8800;
   box-shadow:  0 1px 3px #333 inset;
@@ -121,8 +121,8 @@
   border-top: 1px solid #f6c;
   border-bottom: 1px solid #906;
 }
-.pink_container {background: #906;}
-.pink_mortice {
+.pink-container {background: #906;}
+.pink-mortice {
   background: #604;
   border-bottom: 1px solid #c08;
   color: #fff;
@@ -145,8 +145,8 @@
   border-top: 1px solid #c655ff;
   border-bottom: 1px solid #5b0088;
 }
-.purple_container {background: #609;}
-.purple_mortice {
+.purple-container {background: #609;}
+.purple-mortice {
   background: #406;
   border-bottom: 1px solid #80c;
   box-shadow:  0 1px 3px #333 inset;
@@ -169,8 +169,8 @@
   border-top: 1px solid #88d7ff;
   border-bottom: 1px solid #069;
 }
-.blue_container {background: #069;}
-.blue_mortice {
+.blue-container {background: #069;}
+.blue-mortice {
   background: #046;
   border-bottom: 1px solid #08c;
   color: #fff;
