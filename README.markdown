@@ -15,6 +15,8 @@ To use, paste this into your html:
 		</div>
 	</div>
 
+Then, link to the included stylesheet in the head of your html.
+
 For each new summary of data, create a new combo-fill element containing its own combo-label and fill-amount.
 
 See the example.html for colors and styles.
